@@ -1491,7 +1491,7 @@ p = pipcl.Package(
         requires_dist = g_requires_dist,
         requires_python = '>=3.11',
         license = 'Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License',
-        license_expression = 'AGPL-3.0-only OR LicenseRef-Artifex-Commercial-License',
+        #license_expression = 'AGPL-3.0-only OR LicenseRef-Artifex-Commercial-License',
         project_url = [
             ('Documentation, https://pymupdf.readthedocs.io/'),
             ('Source, https://github.com/pymupdf/pymupdf'),
